@@ -28,7 +28,7 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 19. 
 20.  
 21. 
-22. 
+22. chicken
 23. 
 24. 
 25. 
@@ -40,4 +40,5 @@ Please refer to the checkin Issue that we commented on in Exercise 1 to find you
 31. 
 32. 
 33. 
+34. 
 
